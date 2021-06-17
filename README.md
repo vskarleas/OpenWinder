@@ -78,7 +78,8 @@ how long a rotation takes on your build. I take no responsibility for any damage
 
 ## Wiring Diagram
 
-<a href="https://git.faked.org/jan/openwatchwinder/raw/master/wiring.png"><img src="https://git.faked.org/jan/openwatchwinder/raw/master/wiring.png" alt="Wiring Diagram"  width="500"/></a>
+![wiring](https://user-images.githubusercontent.com/51437323/122342225-0a780000-cf4d-11eb-85f8-0dc57559c56d.png)
+
 
 *Note* Alternativly to the DC jack you could cut a USB cable and attach it direclty to the Nano and driver board.
 
